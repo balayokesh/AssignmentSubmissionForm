@@ -1,0 +1,20 @@
+{
+  "name": "assignmentsubmissionform",
+  "version": "1.0.0",
+  "description": "This app allows students to submit their assignments",
+  "main": "index.js",
+  "scripts": {
+    "devstart": "cd client && npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balayokesh/AssignmentSubmissionForm.git"
+  },
+  "author": "Bala Yokesh Mani A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/balayokesh/AssignmentSubmissionForm/issues"
+  },
+  "homepage": "https://github.com/balayokesh/AssignmentSubmissionForm#readme"
+}
