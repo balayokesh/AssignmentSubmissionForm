@@ -1,10 +1,9 @@
 // Import packages
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Route, BrowserRouter } from 'react-router-dom'
+import { Route, BrowserRouter } from 'react-router-dom';
 
 // Import files
-import './index.css';
 import App from './App';
 import Dashboard from './Dashboard';
 

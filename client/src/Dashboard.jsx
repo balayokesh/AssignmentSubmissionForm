@@ -1,10 +1,13 @@
 import { Link } from 'react-router-dom';
 
+// Import MUI components
+import { Container, Typography } from '@material-ui/core';
+
 export default function Dashboard () {
     return (
-        <div>
-            This is dashboard page
+        <Container>
+            <Typography>This is dashboard page</Typography>
             <Link to='/'>Home</Link>
-        </div>
+        </Container>
     )
 }
